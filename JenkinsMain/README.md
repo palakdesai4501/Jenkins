@@ -1,6 +1,6 @@
 # Jenkins
 
-Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place.
+Are you looking to learn Jenkins from the basics (installation) to mastering end-to-end pipeline builds? You're in the right place!
 
 ## Installation on EC2 Instance
 
